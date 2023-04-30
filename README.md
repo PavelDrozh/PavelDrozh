@@ -11,9 +11,11 @@ Welcome to my github page
 📫 How to reach me: telegram @PavelDrrr
 
 My technology stack:
+
 Java, Spring Framework, Spring Data JPA, PostgreSQL, REST API, Docker, JDBC, Mockito and more...
 
 About me:
+
 I live in Moscow and have been working in the power industry area for over 7 years. I have a goal to become a great Java developer.
 
 I'm finding for company to work together at great and interesting project, and make world better! 😄
