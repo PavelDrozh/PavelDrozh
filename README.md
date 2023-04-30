@@ -3,8 +3,11 @@ Hi! 👋 My name is Pavel
 Welcome to my github page
 
 🌱 I’m currently learning Java
+
 🔭 I'm looking for interesting projects
+
 ⚡ I'm improving my skills every day
+
 📫 How to reach me: telegram @PavelDrrr
 
 My technology stack:
